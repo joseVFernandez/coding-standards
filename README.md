@@ -1,7 +1,8 @@
-Guides
+Coding Standards
 ======
 
-Guides for getting things done, programming well, and programming in style.
+How can we achieve good code? What does good code mean to you?
+
 
 * [Best Practices](./best-practices)
 * [Code Review](./code-review)
