@@ -4,6 +4,7 @@ Coding Standards
 How can we achieve good code? What does good code mean to you?
 
 
+* [Generic Guidelines](./generic-guidelines)
 * [Best Practices](./best-practices)
 * [Code Review](./code-review)
 * [How to](./how-to)
